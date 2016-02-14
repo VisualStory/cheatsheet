@@ -1,10 +1,10 @@
-- Ctrl + A	Go to the beginning of the line you are currently typing on	光标移到行首
-- Ctrl + E	Go to the end of the line you are currently typing on 光标移到行尾
+- **Ctrl + A**	Go to the beginning of the line you are currently typing on	光标移到行首
+- **Ctrl + E**	Go to the end of the line you are currently typing on 光标移到行尾
 - Ctrl + F	Go to next character	光标右移一位
 - Ctrl + B	Go to previous character	光标左移一位
 - Ctrl + L	Clears the Screen, similar to the clear command
-- Ctrl + U	Clears the line before the cursor position. If you are at the end of the line, clears the entire line. 删除光标之前的内容
-- Ctrl + K	Clear the line after the cursor	删除光标之后的内容
+- **Ctrl + U**	Clears the line before the cursor position. If you are at the end of the line, clears the entire line. 删除光标之前的内容
+- **Ctrl + K**	Clear the line after the cursor	删除光标之后的内容
 - Ctrl + H	Same as backspace
 - Ctrl + R	Let’s you search through previously used commands
 - Ctrl + C	Kill whatever you are running
