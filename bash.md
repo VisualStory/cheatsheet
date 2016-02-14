@@ -1,16 +1,17 @@
-Ctrl + A  Go to the beginning of the line you are currently typing on
-Ctrl + E  Go to the end of the line you are currently typing on
-Ctrl + L  Clears the Screen, similar to the clear command
-Ctrl + U	Clears the line before the cursor position. If you are at the end of the line, clears the entire line.
-Ctrl + H	Same as backspace
-Ctrl + R	Let’s you search through previously used commands
-Ctrl + C	Kill whatever you are running
-Ctrl + D	Exit the current shell
-Ctrl + Z	Puts whatever you are running into a suspended background process. fg restores it.
-Ctrl + W	Delete the word before the cursor
-Ctrl + K	Clear the line after the cursor
-Ctrl + T	Swap the last two characters before the cursor
-Esc + T  Swap the last two words before the cursor
-Alt + F  Move cursor forward one word on the current line
-Alt + B  Move cursor backward one word on the current line
-Tab  Auto-complete files and folder names
+- Ctrl + A	Go to the beginning of the line you are currently typing on	光标移到行首
+- Ctrl + E	Go to the end of the line you are currently typing on 光标移到行尾
+- Ctrl + F	Go to next character	光标右移一位
+- Ctrl + B	Go to previous character	光标左移一位
+- Ctrl + L	Clears the Screen, similar to the clear command
+- Ctrl + U	Clears the line before the cursor position. If you are at the end of the line, clears the entire line. 删除光标之前的内容
+- Ctrl + K	Clear the line after the cursor	删除光标之后的内容
+- Ctrl + H	Same as backspace
+- Ctrl + R	Let’s you search through previously used commands
+- Ctrl + C	Kill whatever you are running
+- Ctrl + D	Exit the current shell
+- Ctrl + Z	Puts whatever you are running into a suspended background process. fg restores it.
+- Ctrl + W	Delete the word before the cursor
+- Esc + T	Swap the last two words before the cursor
+- Alt + F	Move cursor forward one word on the current line
+- Alt + B	Move cursor backward one word on the current line
+- Tab	Auto-complete files and folder names
