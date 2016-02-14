@@ -1,0 +1,25 @@
+- h: left
+- l: right
+- j: down
+- k: up
+- 0: move to front of line
+- $: move to end of line
+- w: move to next word
+- b: move to previous word
+- *: move to next occurence of current word
+- #: move to previous occurence of current word
+- a: append next to cursor
+- A: append to the end of line
+- i: insert before cursor
+- I: insert before line
+- o: insert line before
+- O: inser line after
+- y: copy
+- p: paste
+- u: undo
+- ctrl + r: redo
+- >>: indent
+- <<: unindent
+- :e!: reopen current file
+- :e filename: open new file
+- ctrl + ^: swap opened file
